@@ -15,7 +15,8 @@
 			
 				<div id="header">Deneme sayfası</div>
 				<div id="body">Deneme yapıyorum</div>
-				
+				<p>birden fazla değişiklikler yapıyorum</p>
+				<p>Bu benim üçüncü değişikliğim</p>
 				
 			
 			
