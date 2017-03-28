@@ -14,6 +14,7 @@
 			<body>
 			
 				<div id="header">Deneme sayfası</div>
+				<div id="body">Deneme yapıyorum</div>
 				
 				
 			
